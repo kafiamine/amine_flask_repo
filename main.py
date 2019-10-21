@@ -1,4 +1,4 @@
-"""ce fichier de test de la librairie flask"""
+#"""ce fichier de test de la librairie flask"""
 from flask import Flask
 APP = Flask(__name__)
 @APP.route('/')
